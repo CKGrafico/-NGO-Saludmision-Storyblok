@@ -59,7 +59,7 @@ export default defineNuxtConfig({
     // routes check prerender above
   },
   sitemap: {
-    hostname: 'https://helpdev.org',
+    hostname: 'https://saludmision.org',
     routes: getRoutesByToken
   }
 });

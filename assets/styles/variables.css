@@ -9,13 +9,13 @@
   --color-basic-darkest: #323436;
 
   /* Color Primary */
-  --color-primary-brightest: #ffd4b8;
-  --color-primary-brighter: #ffc8a3;
-  --color-primary-bright: #f88b42;
-  --color-primary-normal: #ff6600;
-  --color-primary-dark: #ef6103;
-  --color-primary-darker: #8f3900;
-  --color-primary-darkest: #3f1900;
+  --color-primary-brightest: #74d7f2;
+  --color-primary-brighter: #4fccee;
+  --color-primary-bright: #15add7;
+  --color-primary-normal: #118fb2;
+  --color-primary-dark: #0c667f;
+  --color-primary-darker: #073d4c;
+  --color-primary-darkest: #021418;
 
   /* Color Secondary */
   --color-secondary-brightest: #eeeaff;
